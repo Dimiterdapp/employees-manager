@@ -9,7 +9,6 @@ program manager for employees and projects using php and mysql
 
 * Login
 * Signup
-* Password Hashing
 * Profile Information
 * Edit Projects
 * Create Projects
@@ -23,11 +22,10 @@ program manager for employees and projects using php and mysql
 
 * Login
 * Signup
-* Password Hashing
 * Profile Information
-* Edit Profile
-* Create Profile
-* Delete Profile
+* Edit Users
+* Create Users
+* Delete Users
 * Edit Projects
 * Create Projects
 * Delete Projects
